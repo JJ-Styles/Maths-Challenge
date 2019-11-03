@@ -1,0 +1,19 @@
+i:\documents\visual studio 2015\Projects\maths challenge Q23c\maths challenge Q23c\bin\Debug\maths challenge Q23c.exe.config
+i:\documents\visual studio 2015\Projects\maths challenge Q23c\maths challenge Q23c\bin\Debug\maths challenge Q23c.exe
+i:\documents\visual studio 2015\Projects\maths challenge Q23c\maths challenge Q23c\bin\Debug\maths challenge Q23c.pdb
+i:\documents\visual studio 2015\Projects\maths challenge Q23c\maths challenge Q23c\bin\Debug\maths challenge Q23c.xml
+i:\documents\visual studio 2015\Projects\maths challenge Q23c\maths challenge Q23c\obj\Debug\maths challenge Q23c.vbprojResolveAssemblyReference.cache
+i:\documents\visual studio 2015\Projects\maths challenge Q23c\maths challenge Q23c\obj\Debug\maths_challenge_Q23c.Resources.resources
+i:\documents\visual studio 2015\Projects\maths challenge Q23c\maths challenge Q23c\obj\Debug\maths challenge Q23c.vbproj.GenerateResource.Cache
+i:\documents\visual studio 2015\Projects\maths challenge Q23c\maths challenge Q23c\obj\Debug\maths challenge Q23c.exe
+i:\documents\visual studio 2015\Projects\maths challenge Q23c\maths challenge Q23c\obj\Debug\maths challenge Q23c.xml
+i:\documents\visual studio 2015\Projects\maths challenge Q23c\maths challenge Q23c\obj\Debug\maths challenge Q23c.pdb
+C:\Users\User\Documents\Visual Studio 2019\Github\maths challenge Q23c\maths challenge Q23c\bin\Debug\maths challenge Q23c.exe.config
+C:\Users\User\Documents\Visual Studio 2019\Github\maths challenge Q23c\maths challenge Q23c\bin\Debug\maths challenge Q23c.exe
+C:\Users\User\Documents\Visual Studio 2019\Github\maths challenge Q23c\maths challenge Q23c\bin\Debug\maths challenge Q23c.pdb
+C:\Users\User\Documents\Visual Studio 2019\Github\maths challenge Q23c\maths challenge Q23c\bin\Debug\maths challenge Q23c.xml
+C:\Users\User\Documents\Visual Studio 2019\Github\maths challenge Q23c\maths challenge Q23c\obj\Debug\maths_challenge_Q23c.Resources.resources
+C:\Users\User\Documents\Visual Studio 2019\Github\maths challenge Q23c\maths challenge Q23c\obj\Debug\maths challenge Q23c.vbproj.GenerateResource.cache
+C:\Users\User\Documents\Visual Studio 2019\Github\maths challenge Q23c\maths challenge Q23c\obj\Debug\maths challenge Q23c.exe
+C:\Users\User\Documents\Visual Studio 2019\Github\maths challenge Q23c\maths challenge Q23c\obj\Debug\maths challenge Q23c.xml
+C:\Users\User\Documents\Visual Studio 2019\Github\maths challenge Q23c\maths challenge Q23c\obj\Debug\maths challenge Q23c.pdb
